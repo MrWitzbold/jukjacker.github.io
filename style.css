@@ -83,7 +83,7 @@ a {
 }
 
 .good-ending {
-    margin: 10px;
+    text-align: center;
 }
 
 .music-button {
@@ -91,5 +91,13 @@ a {
 }
 
 .counter-container {
+    text-align: center;
+}
+
+iframe {
+    margin: 10px;
+}
+
+.title-container {
     text-align: center;
 }
