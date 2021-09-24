@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+header {
+    background-color: rgb(115, 17, 49);
+    display: flex;
+    width: 100%;
+    margin: auto;
+    height: 20vh;
+    align-items: center;
+}
+
+h4 { 
+    color: white;
+    font-size: 150%;
+}
+a {
+    color: white;
+    font-size: 140%;
+}
+
+.logo-container {
+    flex: 1;
+    margin-left: 10px;
+}
+.logo {
+    margin: 20px;
+}
+.nav {
+    flex: 1;    
+}
+
+.logo-container {
+    display: flex;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin: 50;
+}
+
+.nav-link {
+    display: flex;
+    text-decoration: none;
+    margin: 100;
+}
+
+.discord-thing {
+    position: relative;
+    margin: 10px;
+    margin-top: 500px;
+    bottom: -10px;
+}
+
+.github-thing {
+    position: relative;
+    margin: 10px;
+    margin-top: 500px;
+    bottom: -10px;
+}
+
+.github-div {
+    background-color: rgb(70, 9, 43);
+    margin: 10;
+    height: 15%;
+    width: 20%;
+}
+
+.contact-stuff {
+    background-color: rgb(70, 9, 43);
+    margin: 10;
+    height: 15%;
+    width: 18%;
+}
+
+.good-ending {
+    margin: 10px;
+}
+
+.music-button {
+    margin: 10px
+}
+
+.counter-container {
+    text-align: center;
+}
