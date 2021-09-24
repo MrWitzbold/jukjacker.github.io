@@ -68,11 +68,25 @@ a {
     bottom: -10px;
 }
 
+.v3rm-thing {
+    position: relative;
+    margin: 10px;
+    margin-top: 500px;
+    bottom: -10px;
+}
+
 .github-div {
     background-color: rgb(70, 9, 43);
     margin: 10;
     height: 15%;
     width: 20%;
+}
+
+.v3rm-div {
+    background-color: rgb(70, 9, 43);
+    margin: 10;
+    height: 15%;
+    width: 49%;
 }
 
 .contact-stuff {
@@ -87,7 +101,12 @@ a {
 }
 
 .music-button {
-    margin: 10px
+    margin: 10px;
+    text-align: center;
+}
+
+.music-container {
+    text-align: center;
 }
 
 .counter-container {
